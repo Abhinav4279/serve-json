@@ -1,16 +1,4 @@
 {
   "tasks": [
-    {
-      "id": "3da623d7-f19e-4849-a2c9-a09f55b5682d",
-      "title": "Task1",
-      "creationDate": 1676661503129,
-      "status": "open",
-      "index": 0,
-      "description": "task1",
-      "tags": [
-        "aa",
-        "bb"
-      ]
-    }
   ]
 }
